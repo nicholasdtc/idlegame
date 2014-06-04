@@ -1,0 +1,4 @@
+idlegame
+========
+
+Idle Game Prototype
